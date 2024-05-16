@@ -1,4 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kacper Rusinek======================================================================================================================================IT specialist and hobby programmer----------------------------------* 🌍  I'm based in Poland/Rzeszów* ✉️  You can contact me at [kacper.rusinek@interia.pl](mailto:kacper.rusinek@interia.pl)* 🧠  I'm learning python and cybersecurity
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is 
+Kacper Rusinek
+======================================================================================================================================
+IT specialist and hobby programmer
+----------------------------------*
+🌍  I'm based in Poland/Rzeszów* 
+✉️ You can contact me at [kacper.rusinek@interia.pl](mailto:kacper.rusinek@interia.pl)* 
+🧠  I'm learning python and cybersecurity
 
 ### Skills
 
